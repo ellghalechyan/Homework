@@ -1,1 +1,1 @@
-# Bass-Model Homework 
+# DS 223 Marketing Analytics Homework Repository
