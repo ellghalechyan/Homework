@@ -75,7 +75,7 @@ The data and estimates are saved in `bimotal_forecast.csv`, which includes:
 ![Real vs Predicted Sales](../img/model_vs_real.png)  
 *Figure 1: Bass model predictions vs observed annual sales*
 
-![Annual Adopters](../img/annual_adopters.png)  
+![Annual Adopters](../img/adopters.png)  
 *Figure 2: Annual Bimotal adopters forecast*
 
 
@@ -85,3 +85,4 @@ The data and estimates are saved in `bimotal_forecast.csv`, which includes:
 - Statista. Electric bicycle sales in the European Union (2015–2024).[source](https://www.statista.com/statistics/1353343/electric-bike-sales-europe/)  
 - Bosch e-bike kits. [Bosch eBike Systems](https://www.bosch-ebike.com/en/company/product-documentation)  
 - Bimotal Elevate official documentation. [Bimotal](https://www.bimotal.com/)
+
