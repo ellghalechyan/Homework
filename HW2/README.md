@@ -15,7 +15,9 @@ You must not remove anything from the Bandit() class, but you may add additional
 **Given Parameters**
 
 Bandit_Reward = [1, 2, 3, 4]
+
 NumberOfTrials = 20000
+
 The values of epsilon (ε) and precision (τ) are chosen by me.
 
 ## 2. Reporting and Output
@@ -39,14 +41,17 @@ plot1()
 Displays linear and logarithmic cumulative reward charts for:
 Epsilon-Greedy
 Thompson Sampling
+
 Saved as:
-img/rewards.png
+![Linear vs Log Scale](../img/rewards.png)  
+*Figure 1: Linear vs Log*
 
 plot2()
 Compares cumulative rewards and cumulative regrets between algorithms.
-Saved as:
-img/algorithms_comparison.png
 
+Saved as:
+![EpsilonGreedy vs ThomsonSampling](../img/algorithms_comparison.png)  
+*Figure 2: Epsilon Greedy vs Thomson Sampling*
 
 
 ## 3. Comparison
