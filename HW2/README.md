@@ -43,14 +43,14 @@ Epsilon-Greedy
 Thompson Sampling
 
 Saved as:
-![Linear vs Log Scale](../img/rewards.png)  
+![Linear vs Log Scale](img/rewards.png)  
 *Figure 1: Linear vs Log*
 
 plot2()
 Compares cumulative rewards and cumulative regrets between algorithms.
 
 Saved as:
-![EpsilonGreedy vs ThomsonSampling](../img/algorithms_comparison.png)  
+![EpsilonGreedy vs ThomsonSampling](img/algorithms_comparison.png)  
 *Figure 2: Epsilon Greedy vs Thomson Sampling*
 
 
